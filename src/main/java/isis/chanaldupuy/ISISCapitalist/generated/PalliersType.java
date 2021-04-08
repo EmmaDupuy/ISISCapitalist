@@ -6,7 +6,7 @@
 //
 
 
-package generated;
+package isis.chanaldupuy.ISISCapitalist.generated;
 
 import java.util.ArrayList;
 import java.util.List;
