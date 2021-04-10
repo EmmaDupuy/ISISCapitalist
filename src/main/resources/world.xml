@@ -69,7 +69,7 @@
           <idcible>2</idcible>
           <ratio>2</ratio>
           <typeratio>gain</typeratio>
-          <unlocked>False</unlocked>
+          <unlocked>false</unlocked>
         </pallier>
         <pallier>
           <name>Chaussures pallier 2</name>
@@ -78,16 +78,180 @@
           <idcible>2</idcible>
           <ratio>2</ratio>
           <typeratio>vitesse</typeratio>
-          <unlocked>False</unlocked>
+          <unlocked>false</unlocked>
         </pallier>
         <pallier>
-          <name>Chaussures pallier 2</name>
+          <name>Chaussures pallier 3</name>
           <logo>icones/chaussures.png</logo>
           <seuil>100</seuil>
           <idcible>2</idcible>
           <ratio>1</ratio>
           <typeratio>ange</typeratio>
-          <unlocked>False</unlocked>
+          <unlocked>false</unlocked>
+        </pallier>
+      </palliers>
+    </product>
+	<product>
+      <id>3</id>
+      <name>Vêtements</name>
+      <logo>icones/tshirt.png</logo>
+      <cout>720</cout>
+      <croissance>1.14</croissance>
+      <revenu>540</revenu>
+      <vitesse>6000</vitesse>
+      <quantite>0</quantite>
+      <timeleft>0</timeleft>
+      <managerUnlocked>false</managerUnlocked>
+      <palliers>
+        <pallier>
+          <name>Vêtement pallier 1</name>
+          <logo>icones/tshirt.png</logo>
+          <seuil>25</seuil>
+          <idcible>2</idcible>
+          <ratio>2</ratio>
+          <typeratio>gain</typeratio>
+          <unlocked>false</unlocked>
+        </pallier>
+        <pallier>
+          <name>Vêtement pallier 2</name>
+          <logo>icones/tshirt.png</logo>
+          <seuil>50</seuil>
+          <idcible>2</idcible>
+          <ratio>2</ratio>
+          <typeratio>vitesse</typeratio>
+          <unlocked>false</unlocked>
+        </pallier>
+        <pallier>
+          <name>Vêtement pallier 3</name>
+          <logo>icones/tshirt.png</logo>
+          <seuil>100</seuil>
+          <idcible>2</idcible>
+          <ratio>1</ratio>
+          <typeratio>ange</typeratio>
+          <unlocked>false</unlocked>
+        </pallier>
+      </palliers>
+    </product>
+	<product>
+      <id>4</id>
+      <name>Outils</name>
+      <logo>icones/pelle.png</logo>
+      <cout>8640</cout>
+      <croissance>1.13</croissance>
+      <revenu>4320</revenu>
+      <vitesse>12000</vitesse>
+      <quantite>0</quantite>
+      <timeleft>0</timeleft>
+      <managerUnlocked>false</managerUnlocked>
+      <palliers>
+        <pallier>
+          <name>Outil pallier 1</name>
+          <logo>icones/pelle.png</logo>
+          <seuil>25</seuil>
+          <idcible>2</idcible>
+          <ratio>2</ratio>
+          <typeratio>gain</typeratio>
+          <unlocked>false</unlocked>
+        </pallier>
+        <pallier>
+          <name>Outil pallier 2</name>
+          <logo>icones/pelle.png</logo>
+          <seuil>50</seuil>
+          <idcible>2</idcible>
+          <ratio>2</ratio>
+          <typeratio>vitesse</typeratio>
+          <unlocked>false</unlocked>
+        </pallier>
+        <pallier>
+          <name>Outil pallier 3</name>
+          <logo>icones/pelle.png</logo>
+          <seuil>100</seuil>
+          <idcible>2</idcible>
+          <ratio>1</ratio>
+          <typeratio>ange</typeratio>
+          <unlocked>false</unlocked>
+        </pallier>
+      </palliers>
+    </product>
+	<product>
+      <id>5</id>
+      <name>Tarentule</name>
+      <logo>icones/tarentule.png</logo>
+      <cout>103680</cout>
+      <croissance>1.12</croissance>
+      <revenu>51840</revenu>
+      <vitesse>24000</vitesse>
+      <quantite>0</quantite>
+      <timeleft>0</timeleft>
+      <managerUnlocked>false</managerUnlocked>
+      <palliers>
+        <pallier>
+          <name>Tarentule pallier 1</name>
+          <logo>icones/tarentule.png</logo>
+          <seuil>25</seuil>
+          <idcible>2</idcible>
+          <ratio>2</ratio>
+          <typeratio>gain</typeratio>
+          <unlocked>false</unlocked>
+        </pallier>
+        <pallier>
+          <name>Tarentule pallier 2</name>
+          <logo>icones/tarentule.png</logo>
+          <seuil>50</seuil>
+          <idcible>2</idcible>
+          <ratio>2</ratio>
+          <typeratio>vitesse</typeratio>
+          <unlocked>false</unlocked>
+        </pallier>
+        <pallier>
+          <name>Tarentule pallier 3</name>
+          <logo>icones/tarentule.png</logo>
+          <seuil>100</seuil>
+          <idcible>2</idcible>
+          <ratio>1</ratio>
+          <typeratio>ange</typeratio>
+          <unlocked>false</unlocked>
+        </pallier>
+      </palliers>
+    </product>
+	<product>
+      <id>6</id>
+      <name>Navet</name>
+      <logo>icones/navet.png</logo>
+      <cout>1244160</cout>
+      <croissance>1.11</croissance>
+      <revenu>622080</revenu>
+      <vitesse>96000</vitesse>
+      <quantite>0</quantite>
+      <timeleft>0</timeleft>
+      <managerUnlocked>false</managerUnlocked>
+      <palliers>
+        <pallier>
+          <name>Navet pallier 1</name>
+          <logo>icones/pelle.png</logo>
+          <seuil>25</seuil>
+          <idcible>2</idcible>
+          <ratio>2</ratio>
+          <typeratio>gain</typeratio>
+          <unlocked>false</unlocked>
+        </pallier>
+        <pallier>
+          <name>Navet pallier 2</name>
+          <logo>icones/pelle.png</logo>
+          <seuil>50</seuil>
+          <idcible>2</idcible>
+          <ratio>2</ratio>
+          <typeratio>vitesse</typeratio>
+          <unlocked>false</unlocked>
+        </pallier>
+        <pallier>
+          <name>Navet pallier 3</name>
+          <logo>icones/pelle.png</logo>
+          <seuil>100</seuil>
+          <idcible>2</idcible>
+          <ratio>1</ratio>
+          <typeratio>ange</typeratio>
+          <unlocked>false</unlocked>
         </pallier>
       </palliers>
     </product>
@@ -129,7 +293,7 @@
             <idcible>1</idcible>
             <ratio>2</ratio>
             <typeratio>vitesse</typeratio>
-            <unlocked>False</unlocked>
+            <unlocked>false</unlocked>
         </pallier>
         <pallier>
             <name>Chaussures upgrade 1</name>
@@ -138,7 +302,43 @@
             <idcible>2</idcible>
             <ratio>2</ratio>
             <typeratio>vitesse</typeratio>
-            <unlocked>False</unlocked>
+            <unlocked>false</unlocked>
+        </pallier>
+		<pallier>
+            <name>Vêtements upgrade 1</name>
+            <logo>icones/tshirt.png</logo>
+            <seuil>250000</seuil>
+            <idcible>2</idcible>
+            <ratio>2</ratio>
+            <typeratio>vitesse</typeratio>
+            <unlocked>false</unlocked>
+        </pallier>
+		<pallier>
+            <name>Outils upgrade 1</name>
+            <logo>icones/tarentule.png</logo>
+            <seuil>250000</seuil>
+            <idcible>2</idcible>
+            <ratio>2</ratio>
+            <typeratio>vitesse</typeratio>
+            <unlocked>false</unlocked>
+        </pallier>
+		<pallier>
+            <name>Tarentule upgrade 1</name>
+            <logo>icones/chaussures.png</logo>
+            <seuil>250000</seuil>
+            <idcible>2</idcible>
+            <ratio>2</ratio>
+            <typeratio>vitesse</typeratio>
+            <unlocked>false</unlocked>
+        </pallier>
+		<pallier>
+            <name>Navet upgrade 1</name>
+            <logo>icones/navet.png</logo>
+            <seuil>250000</seuil>
+            <idcible>2</idcible>
+            <ratio>2</ratio>
+            <typeratio>vitesse</typeratio>
+            <unlocked>false</unlocked>
         </pallier>
         <pallier>
             <name>Arbrisseau upgrade 2</name>
@@ -147,16 +347,52 @@
             <idcible>1</idcible>
             <ratio>2</ratio>
             <typeratio>gain</typeratio>
-            <unlocked>False</unlocked>
+            <unlocked>false</unlocked>
         </pallier>
-        <pallier>
+		<pallier>
             <name>Chaussures upgrade 2</name>
             <logo>icones/chaussures.png</logo>
             <seuil>500000</seuil>
             <idcible>2</idcible>
             <ratio>2</ratio>
             <typeratio>gain</typeratio>
-            <unlocked>False</unlocked>
+            <unlocked>false</unlocked>
+        </pallier>
+		<pallier>
+            <name>Vêtements upgrade 2</name>
+            <logo>icones/tshirt.png</logo>
+            <seuil>500000</seuil>
+            <idcible>2</idcible>
+            <ratio>2</ratio>
+            <typeratio>gain</typeratio>
+            <unlocked>false</unlocked>
+        </pallier>
+		<pallier>
+            <name>Outils upgrade 2</name>
+            <logo>icones/pelle.png</logo>
+            <seuil>500000</seuil>
+            <idcible>2</idcible>
+            <ratio>2</ratio>
+            <typeratio>gain</typeratio>
+            <unlocked>false</unlocked>
+        </pallier>
+		<pallier>
+            <name>Tarentule upgrade 2</name>
+            <logo>icones/tarentule.png</logo>
+            <seuil>500000</seuil>
+            <idcible>2</idcible>
+            <ratio>2</ratio>
+            <typeratio>gain</typeratio>
+            <unlocked>false</unlocked>
+        </pallier>
+		<pallier>
+            <name>Navet upgrade 2</name>
+            <logo>icones/navet.png</logo>
+            <seuil>500000</seuil>
+            <idcible>2</idcible>
+            <ratio>2</ratio>
+            <typeratio>gain</typeratio>
+            <unlocked>false</unlocked>
         </pallier>
   </upgrades>
   <angelupgrades>
@@ -167,7 +403,7 @@
             <idcible>0</idcible>
             <ratio>3</ratio>
             <typeratio>gain</typeratio>
-            <unlocked>False</unlocked>
+            <unlocked>false</unlocked>
         </pallier>
         <pallier>
             <name>MeliMelo mutinerie</name>
@@ -176,7 +412,7 @@
             <idcible>-1</idcible>
             <ratio>2</ratio>
             <typeratio>ange</typeratio>
-            <unlocked>False</unlocked>
+            <unlocked>false</unlocked>
         </pallier>
         <pallier>
             <name>MeliMelo rebellion</name>
@@ -185,7 +421,7 @@
             <idcible>-1</idcible>
             <ratio>2</ratio>
             <typeratio>ange</typeratio>
-            <unlocked>False</unlocked>
+            <unlocked>false</unlocked>
         </pallier>
   </angelupgrades>
   <managers>
@@ -196,7 +432,7 @@
         <idcible>1</idcible>
         <ratio></ratio>
         <typeratio></typeratio>
-        <unlocked>False</unlocked>
+        <unlocked>false</unlocked>
     </pallier>
     <pallier>
         <name>Blaise</name>
@@ -205,16 +441,43 @@
         <idcible>2</idcible>
         <ratio></ratio>
         <typeratio></typeratio>
-        <unlocked>False</unlocked>
+        <unlocked>false</unlocked>
     </pallier>
     <pallier>
         <name>Les Soeurs Doigts de Fée</name>
-        <logo>icones/SœursDoigtsdeFee.png</logo>
+        <logo>icones/SoeursDoigtsdeFee.png</logo>
         <seuil>100000</seuil>
         <idcible>3</idcible>
         <ratio></ratio>
         <typeratio></typeratio>
-        <unlocked>False</unlocked>
+        <unlocked>false</unlocked>
+    </pallier>
+	<pallier>
+        <name>Marie</name>
+        <logo>icones/marie.png</logo>
+        <seuil>500000</seuil>
+        <idcible>4</idcible>
+        <ratio></ratio>
+        <typeratio></typeratio>
+        <unlocked>false</unlocked>
+    </pallier>
+	<pallier>
+        <name>Thibou</name>
+        <logo>icones/thibou.png</logo>
+        <seuil>1200000</seuil>
+        <idcible>5</idcible>
+        <ratio></ratio>
+        <typeratio></typeratio>
+        <unlocked>false</unlocked>
+    </pallier>
+	<pallier>
+        <name>Porcelette</name>
+        <logo>icones/Porcelette.png</logo>
+        <seuil>10000000</seuil>
+        <idcible>6</idcible>
+        <ratio></ratio>
+        <typeratio></typeratio>
+        <unlocked>false</unlocked>
     </pallier>
   </managers>
 </world>
